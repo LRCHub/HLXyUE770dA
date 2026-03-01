@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "66号線 (BUMP OF CHICKEN TOUR 2022 Silver Jubilee at Zepp Haneda(TOKYO))",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-01T15:34:51.698545Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "66号線",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_66号線_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "66号線 (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_66号線_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "66号線 - Route 66",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_66号線_-_Route_66_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "66号線",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_66号線_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
